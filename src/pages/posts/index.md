@@ -6,4 +6,4 @@ authorURL: https://celiahowell.com
 description: this is an example of celias blog
 layout: ../../layouts/BlogPost.astro
 ---
-Example blog content goes heere
+Example blog content goes here. This is a test edit!
